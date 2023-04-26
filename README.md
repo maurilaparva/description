@@ -1,3 +1,13 @@
-# Hi there!
+<h1 align="center">Hi there! I am Mauricio Villavicencio</h1>
+<h3 align="center">A Computer Science student and teaching assistant at the University of Minnesota.</h3>
 
-I'm Mauricio Villavicencio, a Computer Science student and teaching assistant at the University of Minnesota with a passion for natural language processing and artificial intelligence. My skills lie in Java, C, but I have a particular liking to Python. I also find a great joy in helping others learn and succeed in their computer science journeys. 
+- 🌱 I’m currently learning: **C, C++, and OCaml**
+
+- 💬 Pronouns: **He/Him/His**
+
+- 📫Reach out to me! **villaz.mauricio@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
